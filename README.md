@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**Praneshsivasankaran/Praneshsivasankaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pranesh 🚀  
+🎓 3rd Year B.Tech CSE (AIML) @ SRM University  
+💻 Aspiring SDE + ML Engineer  
+🤖 Passionate about building real-world AI systems & scalable backend applications 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+
+💻 **Languages:** Python, JavaScript, C++, SQL  
+🌐 **Frontend:** React.js  
+⚙️ **Backend:** FastAPI, Node.js  
+🤖 **AI/ML:** Scikit-learn, Pandas, NumPy, NLP  
+🗄️ **Database:** MySQL, MongoDB  
+🛠️ **Tools:** Git, GitHub, Netlify  
