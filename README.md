@@ -12,3 +12,15 @@ I'm Pranesh 🚀
 🤖 **AI/ML:** Scikit-learn, Pandas, NumPy, NLP  
 🗄️ **Database:** MySQL, MongoDB  
 🛠️ **Tools:** Git, GitHub, Netlify  
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: (https://www.linkedin.com/in/praneshsivasankaran/)
+- Portfolio: (https://www.pranesh.me/)
