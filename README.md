@@ -16,7 +16,7 @@ I'm Pranesh 🚀
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Praneshsivasankaran&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=Praneshsivasanaran&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
