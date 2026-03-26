@@ -22,5 +22,5 @@ I'm Pranesh 🚀
 
 ## 🌐 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/praneshsivasankaran/)
-- Portfolio: (https://www.pranesh.me/)
+- LinkedIn: https://www.linkedin.com/in/praneshsivasankaran/
+- Portfolio: https://www.pranesh.me/
