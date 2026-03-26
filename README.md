@@ -6,12 +6,14 @@ I'm Pranesh 🚀
 
  🛠️ Tech Stack  
 
-💻 **Languages:** Python, JavaScript, C++, SQL  
-🌐 **Frontend:** React.js  
-⚙️ **Backend:** FastAPI, Node.js  
-🤖 **AI/ML:** Scikit-learn, Pandas, NumPy, NLP  
-🗄️ **Database:** MySQL, MongoDB  
-🛠️ **Tools:** Git, GitHub, Netlify  
+## Tech Stack
+- Languages: Python, Dart, Java, SQL
+- Frontend: Flutter, React
+- Backend: FastAPI
+- Database: PostgreSQL, MySQL
+- AI/ML: Scikit-learn, Pandas, NumPy, NLP
+- Tools: Git, GitHub, Render, Netlify
+  
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Praneshsivasankaran&show_icons=true&theme=tokyonight)
