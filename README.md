@@ -8,15 +8,11 @@
 
 ### 👋 about me
 
-```python
-class Pranesh:
-    def __init__(self):
-        self.role      = "cs (ai/ml) @ srm university · grad 2027"
-        self.focus     = ["fullstack", "ml engineering", "backend systems"]
-        self.currently = "shipping real-world ai systems & side projects"
-        self.target    = "sde + ml engineer"
-        self.fun_fact  = "i have a bike"
-```
+> cs (ai/ml) @ srm university · grad 2027
+> focus      → fullstack · ml engineering · backend systems
+> currently  → shipping real-world ai systems & side projects
+> target     → sde + ml engineer
+> fun fact   → i have a bike
 
 ---
 
@@ -80,13 +76,5 @@ class Pranesh:
 <a href="https://pranesh.me"><img src="https://img.shields.io/badge/portfolio-pranesh.me-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>built late at night between gym sets · find me at <a href="https://pranesh.me">pranesh.me</a></sub>
 
 </div>
