@@ -1,113 +1,92 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=pranesh;backend+%E2%80%A2+ml;building+systems+that+actually+work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=hey+i'm+pranesh;fullstack+%E2%80%A2+ml;cs+(ai%2Fml)+%40+srm+university;building+systems+that+actually+work;pushing+code+consistently" />
+
+</div>
+
+---
+
+### 👋 about me
+
+```python
+class Pranesh:
+    def __init__(self):
+        self.role      = "cs (ai/ml) @ srm university · grad 2027"
+        self.focus     = ["fullstack", "ml engineering", "backend systems"]
+        self.currently = "shipping real-world ai systems & side projects"
+        self.target    = "sde + ml engineer"
+        self.fun_fact  = "i have a bike"
+```
+
+---
+
+### 🛠 tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,sklearn,mysql,postgres,git,linux,aws,docker,vscode&theme=dark" />
+</p>
+
+<p align="center">
+<sub>
+<b>languages</b> &nbsp;·&nbsp; python · c++ · java &nbsp;&nbsp;|&nbsp;&nbsp;
+<b>backend</b> &nbsp;·&nbsp; fastapi &nbsp;&nbsp;|&nbsp;&nbsp;
+<b>ml</b> &nbsp;·&nbsp; scikit-learn · pandas · numpy &nbsp;&nbsp;|&nbsp;&nbsp;
+<b>data</b> &nbsp;·&nbsp; mysql · postgresql &nbsp;&nbsp;|&nbsp;&nbsp;
+<b>tools</b> &nbsp;·&nbsp; git · linux · aws · docker
+</sub>
+</p>
+
+---
+
+### 📊 github stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Praneshsivasankaran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&show=prs_merged,prs_merged_percentage" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneshsivasankaran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="180" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praneshsivasankaran&theme=tokyonight" />
+
+</div>
+
+---
+
+### 📈 contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praneshsivasankaran&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF" width="100%" />
+
+</div>
+
+---
+
+### 🎮 watch pacman eat my contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Praneshsivasankaran/Praneshsivasankaran/output/pacman-contribution-graph.svg" alt="pacman eating contributions" />
+
+</div>
+
+---
+
+### 📬 contact me
+
+<div align="center">
+
+<a href="https://pranesh.me"><img src="https://img.shields.io/badge/portfolio-pranesh.me-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img height="220" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</div>
 
----
+<sub>built late at night between gym sets · find me at <a href="https://pranesh.me">pranesh.me</a></sub>
 
-### 👋 about
-
-- cs (ai/ml) @ srm university  
-- building real-world ai systems & backend apps  
-- pushing code consistently  
-- sde eventually  
-
----
-
-### 🚀 featured projects
-
-#### 🤖 AI Resume Analyzer  
-ATS scoring system using NLP + ML  
-→ analyzes resumes against job descriptions  
-→ scoring + keyword + grammar + structure  
-
-#### 🎧 BPM Predictor  
-ML model to predict song tempo  
-→ trained on kaggle dataset  
-→ deployed with streamlit  
-
-#### 🚗 Fuel Tracking App (WIP)  
-backend + analytics for driving behavior  
-→ fastapi + postgresql  
-→ real-time insights (in progress)
-
----
-
-### 🛠 stack
-
-**languages**  
-python • c++ • java  
-
-**backend**  
-fastapi  
-
-**ml**  
-scikit-learn • pandas • numpy  
-
-**database**  
-mysql • postgresql  
-
-**tools**  
-git • linux • aws  
-
----
-
-### ⚡ tech
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-</p>
-
----
-
-### 📊 stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/building-projects-black?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=praneshsivasankaran&style=for-the-badge"/>
-</p>
-
----
-
-### 🟡 activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneshsivasankaran/praneshsivasankaran/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/praneshsivasankaran/praneshsivasankaran/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 🌐 connect
-
-<p align="center">
-  <a href="https://pranesh.dev">
-    <img src="https://img.shields.io/badge/portfolio-pranesh.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:pranesh.dev@gmail.com">
-    <img src="https://img.shields.io/badge/email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/praneshsivasankaran/">
-    <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=praneshsivasankaran.praneshsivasankaran"/>
 </div>
