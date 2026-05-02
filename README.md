@@ -74,7 +74,7 @@
 <div align="center">
 
 <a href="https://pranesh.me"><img src="https://img.shields.io/badge/portfolio-pranesh.me-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN_HANDLE](https://www.linkedin.com/in/praneshsivasankaran/)"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pranesh.sde@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
