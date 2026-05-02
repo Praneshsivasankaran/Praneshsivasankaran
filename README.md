@@ -77,8 +77,8 @@ git • linux • aws
 ### 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praneshsivasankaran&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneshsivasankaran&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/building-projects-black?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=praneshsivasankaran&style=for-the-badge"/>
 </p>
 
 ---
