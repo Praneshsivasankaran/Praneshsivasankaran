@@ -14,13 +14,7 @@ I'm Pranesh 🚀
 - AI/ML: Scikit-learn, Pandas, NumPy, NLP
 - Tools: Git, GitHub, Render, Netlify
   
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Praneshsivasankaran&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
