@@ -1,14 +1,7 @@
 {
-  "username": "Praneshsivasankaran",
   "widgets": [
     {
-      "instanceId": "widget_1788791446518",
-      "widgetId": "header",
       "name": "Header Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
       "size": {
         "width": 800,
         "height": 90
@@ -17,28 +10,27 @@
         "accentColor": "#bd93f9"
       },
       "locked": false,
+      "zIndex": 1,
       "visible": true,
-      "zIndex": 1
-    },
-    {
-      "instanceId": "widget_1788791451025",
-      "widgetId": "ascii-text",
-      "name": "Ascii-text Widget",
       "position": {
         "x": 0,
-        "y": 106
+        "y": 0
       },
+      "widgetId": "header",
+      "instanceId": "widget_1788791446518"
+    },
+    {
+      "name": "Ascii-text Widget",
       "size": {
         "width": 800,
         "height": 120
       },
       "config": {
-        "customText": "Hello_There",
-        "asciiFont": "block",
-        "charSpacing": 2,
-        "fontSize": 12,
+        "cols": 85,
+        "detail": "high",
         "charset": "default",
-        "customCharset": "",
+        "fontSize": 12,
+        "asciiFont": "block",
         "asciiLines": [
           "██    ██  ████████  ██        ██         ▄████▄         ████████  ██    ██  ████████  ███████▄  ████████",
           "██    ██  ██        ██        ██        ██    ██           ██     ██    ██  ██        ██    ██  ██      ",
@@ -46,30 +38,35 @@
           "██    ██  ██        ██        ██        ██    ██           ██     ██    ██  ██        ██  ▀██▄  ██      ",
           "██    ██  ████████  ████████  ████████   ▀████▀            ██     ██    ██  ████████  ██    ██  ████████"
         ],
+        "customText": "Hello_There",
         "accentColor": "#ffffff",
-        "detail": "high",
-        "cols": 85,
+        "charSpacing": 2,
         "animationType": "fade-in",
+        "customCharset": "",
         "animationPreviewKey": 1
       },
       "locked": false,
+      "zIndex": 2,
       "visible": true,
-      "zIndex": 2
-    },
-    {
-      "instanceId": "widget_1788791454779",
-      "widgetId": "ascii-art",
-      "name": "Ascii-art Widget",
       "position": {
         "x": 0,
-        "y": 242
+        "y": 106
       },
+      "widgetId": "ascii-text",
+      "instanceId": "widget_1788791451025"
+    },
+    {
+      "name": "Ascii-art Widget",
       "size": {
         "width": 280,
         "height": 280
       },
       "config": {
-        "lockAspectRatio": true,
+        "cols": 200,
+        "rows": 100,
+        "detail": "high",
+        "charset": "dense",
+        "contrast": 20,
         "asciiText": [
           "+*//z???zz?z??zz??zz?sTT)7)))7(((77(77(7F|||(|iiFFiFFi{iC}C{iF|||||((F{iiF|i|J(F|Fi{{i{{{{F|iii|||FC{{}3I{i{i{Cff3133113ffIf}33f}fC{{{Fii{{iiFFF()7|((((F((|7JJ)JJJvTvvv))J))TL)(J77))vvvTL?ssssLLsz/*cr",
           "+<<><++<<>><<><<<<<++rrc/**c*****c******z//**z???//z/z?zss??zzzz//z*?zzz?z/zzc////zzz?s????z/z///zz??/LTLsss??TvvTTLLTTLLTLLTTTT?????zzzz?zz?/zz/cz/*///z**/*cccrc*!*c*rrcrr*!rccc*crrrrcc!rr++rrr++<<>r",
@@ -172,6 +169,8 @@
           ":----.----...`   ``.-'---------..--------'-''-'-----------------------.-----------'-'''-'''''.....-----.---.....-.-.-.-.---...``.`.`.``.```` ``` ` ```  ```````````````.--......----'''':_;+!!!!!!rr!++z",
           "-..`.--''--..`   `.--'---'-----'-''''''''''-''':':''''':':::::':'':''':''::':::::':::_____:_'...--'''':':''---'-''''''':''''........`..`.```````````      ` ` ````...--------'-''''::::___;!czsLTTLLss?z"
         ],
+        "textColor": "#060606",
+        "accentColor": "#ffffff",
         "asciiColors": [
           [
             "#884f20",
@@ -20374,149 +20373,148 @@
             "#98624a"
           ]
         ],
-        "cols": 200,
-        "rows": 100,
-        "accentColor": "#ffffff",
-        "charset": "dense",
-        "detail": "high",
-        "contrast": 20,
-        "textColor": "#060606",
         "animationType": "typewriter",
-        "animationPreviewKey": 1,
-        "animationDuration": 3000
+        "lockAspectRatio": true,
+        "animationDuration": 3000,
+        "animationPreviewKey": 1
       },
       "locked": false,
+      "zIndex": 3,
       "visible": true,
-      "zIndex": 3
+      "position": {
+        "x": 0,
+        "y": 242
+      },
+      "widgetId": "ascii-art",
+      "instanceId": "widget_1788791454779"
     },
     {
-      "instanceId": "widget_1788791457585",
-      "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
-      "position": {
-        "x": 296,
-        "y": 258
-      },
       "size": {
         "width": 500,
         "height": 500
       },
       "config": {
-        "headerColor": "#bd93f9",
-        "labelColor": "#ff79c6",
         "dotColor": "#6272a4",
-        "valueColor": "#f8f8f2",
-        "statsValColor": "#8be9fd",
-        "dividerColor": "#44475a",
-        "showFollowing": true,
-        "showTimezone": true,
+        "showEmail": true,
+        "showStars": false,
+        "labelColor": "#ff79c6",
         "showJoined": true,
         "showStatus": true,
-        "showPronouns": true,
-        "showAchievements": true,
-        "showHighlights": true,
-        "lockAspectRatio": true,
+        "valueColor": "#f8f8f2",
         "accentColor": "#ff00ff",
+        "headerColor": "#bd93f9",
+        "dividerColor": "#44475a",
+        "showPronouns": true,
+        "showTimezone": true,
         "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "animationDuration": 1500,
+        "showFollowing": true,
+        "statsValColor": "#8be9fd",
+        "showHighlights": true,
         "customLanguages": "Python, Java",
-        "showStars": false,
-        "showEmail": true
+        "lockAspectRatio": true,
+        "showAchievements": true,
+        "animationDuration": 1500,
+        "animationPreviewKey": 1
       },
       "locked": false,
+      "zIndex": 4,
       "visible": true,
-      "zIndex": 4
+      "position": {
+        "x": 296,
+        "y": 258
+      },
+      "widgetId": "terminal-info",
+      "instanceId": "widget_1788791457585"
     },
     {
-      "instanceId": "widget_1788791564610",
-      "widgetId": "premium-ascii-dev-score",
       "name": "Premium-ascii-dev-score Widget",
-      "position": {
-        "x": 280,
-        "y": 376
-      },
       "size": {
         "width": 504,
         "height": 504
       },
       "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#bd93f9",
-        "secondaryColor": "#ff79c6",
-        "borderColor": "#382a47",
         "hideBorder": true,
-        "hideDecorations": true,
+        "accentColor": "#bd93f9",
+        "borderColor": "#382a47",
         "hideMetrics": [
           "impact"
         ],
-        "showTotalScore": false
+        "secondaryColor": "#ff79c6",
+        "showTotalScore": false,
+        "backgroundColor": "transparent",
+        "hideDecorations": true,
+        "lockAspectRatio": true,
+        "transparentBackground": true
       },
       "locked": false,
+      "zIndex": 5,
       "visible": true,
-      "zIndex": 5
+      "position": {
+        "x": 280,
+        "y": 376
+      },
+      "widgetId": "premium-ascii-dev-score",
+      "instanceId": "widget_1788791564610"
     },
     {
-      "instanceId": "widget_1788791718789",
-      "widgetId": "premium-ascii-coding-velocity",
       "name": "Premium-ascii-coding-velocity Widget",
-      "position": {
-        "x": 0,
-        "y": 462
-      },
       "size": {
         "width": 296,
         "height": 296
       },
       "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
         "accentColor": "#bd93f9",
+        "borderColor": "#382a47",
         "secondaryColor": "#ff79c6",
-        "borderColor": "#382a47"
+        "backgroundColor": "transparent",
+        "lockAspectRatio": true,
+        "transparentBackground": true
       },
       "locked": false,
+      "zIndex": 6,
       "visible": true,
-      "zIndex": 6
-    },
-    {
-      "instanceId": "widget_1788791918924",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
       "position": {
         "x": 0,
-        "y": 749
+        "y": 462
       },
+      "widgetId": "premium-ascii-coding-velocity",
+      "instanceId": "widget_1788791718789"
+    },
+    {
+      "name": "Contribution-snake Widget",
       "size": {
         "width": 800,
         "height": 250
       },
       "config": {
-        "accentColor": "#ff00ff",
         "textColor": "#ff00ff",
+        "accentColor": "#ff00ff",
         "animationType": "none",
-        "animationPreviewKey": 7,
-        "animationDuration": 600
+        "animationDuration": 600,
+        "animationPreviewKey": 7
       },
       "locked": false,
+      "zIndex": 9,
       "visible": true,
-      "zIndex": 9
+      "position": {
+        "x": 0,
+        "y": 749
+      },
+      "widgetId": "contribution-snake",
+      "instanceId": "widget_1788791918924"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "padding": 24,
     "textColor": "#e5e5e5",
+    "themeMode": "dark",
+    "fontFamily": "'Inter Tight', sans-serif",
     "accentColor": "#c5ff4a",
     "borderColor": "#252525",
-    "fontFamily": "'Inter Tight', sans-serif",
     "borderRadius": 0,
-    "padding": 24,
-    "themeMode": "dark",
-    "templateStyle": "blank"
+    "templateStyle": "blank",
+    "backgroundColor": "#060606"
   },
-  "templateId": "blank",
-  "profileSlug": "default"
+  "templateId": "blank"
 }
